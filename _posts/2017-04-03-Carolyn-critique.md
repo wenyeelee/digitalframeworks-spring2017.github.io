@@ -1,9 +1,13 @@
 ---
 layout: post
+title:  "Critique of data graphic"
+date:   2017-04-03
+author: Carolyn Cakir
 image: lessons/software-freedom.jpg
 image_credit: Jonathan Gibby
 ---
 
+This is the beginning of my post critiquing a data graph.
 
 ### Markdown test document
 
