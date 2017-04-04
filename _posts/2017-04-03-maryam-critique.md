@@ -7,4 +7,4 @@ author: Maryam Saleh
 
 Homework assignment TK.
 
-[Ayy good journalism](http://nytimes.com).
+[Ayy good journalism](https://www.nytimes.com).
