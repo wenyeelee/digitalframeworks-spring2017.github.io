@@ -7,3 +7,5 @@ image: lessons/software-freedom.jpg
 ---
 
 This is the first data class.
+
+[NPR is good at podcasting](http://npr.org) and radio.
