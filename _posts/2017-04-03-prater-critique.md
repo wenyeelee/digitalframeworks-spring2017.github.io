@@ -6,5 +6,3 @@ author: Nia Prater
 ---
 
 Test test test
-
-This is a test.
