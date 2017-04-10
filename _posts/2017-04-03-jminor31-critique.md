@@ -13,9 +13,8 @@ This article attempts to answer that question. This brings me to my next point: 
 Finally, there is the ability to communicate. Personally, I feel sometimes numbers can get lost in translation when telling a story. In this case, I think the author did an impeccable job of using standard statistics that any sports fan would understand. However, I think it is prudent to pick one statistic to highlight the most important information instead of showing them all just to be scrolled over. I believe the author could’ve taken a much deeper analysis in the NFL pass efficiency rating he pointed out. Why pick that statistic? Russell Wilson and Cam Newton will go down as some of the greats to ever play, but yet they love to run the ball instead of pass.
 
 While this article is simple, concise and straightforward, the intrigue is lacking. With a deeper analysis and the right use of statistics this could’ve been an A. It currently stands as a C- on Jasmine’s radar of data journalism.
-<<<<<<< HEAD
-=======
 
 
-[Tony Romo Was A Good QB In An Era Of Great Ones](https://fivethirtyeight.com/features/tony-romo-was-a-good-qb-in-an-era-of-great-ones/).
+
+
 >>>>>>> origin/master
