@@ -6,7 +6,7 @@ author: Carolyn Cakir
 ---
 
 This is the beginning of my post critiquing the New York Times article
-["We Avoid News We Don't Like. Some Trump-Era Evidence.""](https://www.nytimes.com/interactive/2017/02/21/upshot/how-readers-react-to-political-news-they-dont-like-they-ignore-it.html)
+["We Avoid News We Don't Like. Some Trump-Era Evidence."](https://www.nytimes.com/interactive/2017/02/21/upshot/how-readers-react-to-political-news-they-dont-like-they-ignore-it.html)
 
 The subject hits on the idea that people live in echo-chambers, consuming news that only serves to reinforce their ideologies. The article and data breaks it down even further by attempting to explain it in terms of supply and demand. How much do these outlets write about a certain subject and how much do their readers want to hear about it.
 
