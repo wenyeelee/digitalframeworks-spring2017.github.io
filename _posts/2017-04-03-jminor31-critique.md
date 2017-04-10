@@ -15,4 +15,4 @@ Finally, there is the ability to communicate. Personally, I feel sometimes numbe
 While this article is simple, concise and straightforward, the intrigue is lacking. With a deeper analysis and the right use of statistics this could’ve been an A. It currently stands as a C- on Jasmine’s radar of data journalism.
 
 
-[Tony Romo WasA Good QB In An Era Of Great Ones](https://fivethirtyeight.com/features/tony-romo-was-a-good-qb-in-an-era-of-great-ones/).
+[Tony Romo Was A Good QB In An Era Of Great Ones](https://fivethirtyeight.com/features/tony-romo-was-a-good-qb-in-an-era-of-great-ones/).
