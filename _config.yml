@@ -43,5 +43,3 @@ defaults:
       type: lessons
     values:
       layout: lesson
-
-theme: jekyll-theme-minimal
