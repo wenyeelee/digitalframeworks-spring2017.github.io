@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample post"
+title:  U.S. Arms Sales to the World
 date:   2017-04-17
 author: Wen-Yee Lee
 ---
