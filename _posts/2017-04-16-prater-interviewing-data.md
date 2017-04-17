@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Wisconsin Election Data"
 date:   2017-04-16
