@@ -5,7 +5,9 @@ date:   2017-04-17
 author: Wen-Yee Lee
 ---
 
-The arms transfer data from the [Stockholm International Peace Research Institute(SIPRI)](http://armstrade.sipri.org/armstrade/html/export_values.php) shows how many arms sales exporting from the United States to countries worldwide. SIPRI researches into conflict, armaments, arms control and disarmament.
+[Sheet](https://docs.google.com/spreadsheets/d/17tqU_FdHApbLG0fEypTFJ0dcSpkn9_Pi_2Q4hnVDJxA/edit?usp=sharing)
+
+The arms transfer data from the [Stockholm International Peace Research Institute(SIPRI)](https://www.sipri.org/databases/armstransfers) shows how many arms sales exporting from the United States to countries worldwide. SIPRI researches into conflict, armaments, arms control and disarmament.
 
 I select the data in the past six years, 2011 to 2016, and visualized a world map pointing out countries that buys most U.S. weapons with red:
 
